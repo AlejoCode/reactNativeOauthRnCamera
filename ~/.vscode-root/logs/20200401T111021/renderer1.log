@@ -1,0 +1,2 @@
+[2020-04-01 11:11:02.239] [renderer1] [warning] UNRESPONSIVE extension host, 'ritwickdey.LiveServer' took 100% of 5159.35ms, saved PROFILE here: '/tmp/exthost-91dc2e.cpuprofile' [{"id":"gc","total":14691,"percentage":0},{"id":"ritwickdey.LiveServer","total":5143513,"percentage":100}]
+[2020-04-01 11:15:10.208] [renderer1] [warning] UNRESPONSIVE extension host, 'ritwickdey.LiveServer' took 100% of 6065.215ms, saved PROFILE here: '/tmp/exthost-12b631.cpuprofile' [{"id":"gc","total":3654,"percentage":0},{"id":"ritwickdey.LiveServer","total":6061316,"percentage":100}]

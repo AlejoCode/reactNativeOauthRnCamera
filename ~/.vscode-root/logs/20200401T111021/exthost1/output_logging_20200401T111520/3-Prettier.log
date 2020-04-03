@@ -1,0 +1,512 @@
+["INFO" - 11:15:20 AM] Extension Name: "prettier-vscode".
+["INFO" - 11:15:20 AM] Extension Version: "3.20.0".
+["INFO" - 11:15:20 AM] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 11:15:20 AM] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 12:04:52 PM] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 12:04:52 PM] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 12:04:52 PM] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 12:04:52 PM] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 12:04:56 PM] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 12:04:56 PM] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 12:04:56 PM] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 12:04:56 PM] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 12:55:13 PM] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 12:55:13 PM] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 12:55:13 PM] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 12:55:13 PM] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 12:55:38 PM] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 12:55:38 PM] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 12:55:38 PM] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 12:55:38 PM] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 1:18:48 PM] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 1:18:48 PM] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 1:18:48 PM] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 1:18:48 PM] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 1:18:57 PM] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 1:18:57 PM] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 1:18:57 PM] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 1:18:57 PM] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 4:59:17 PM] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 4:59:18 PM] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 4:59:18 PM] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 4:59:18 PM] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 4:59:27 PM] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 4:59:27 PM] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 4:59:27 PM] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 4:59:27 PM] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]

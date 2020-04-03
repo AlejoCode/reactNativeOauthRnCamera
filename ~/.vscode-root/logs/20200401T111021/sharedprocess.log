@@ -1,0 +1,27 @@
+[2020-04-01 11:10:34.412] [sharedprocess] [info] main {"machineId":"e05a304177dde6910aec7cc2638232190045399315a5e4ed6fa42acf306a66f6","windowId":2}
+[2020-04-01 11:11:14.490] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-04-01 11:11:17.736] [sharedprocess] [info] Deleted from disk juanblanco.solidity /Users/danielsalgado/.vscode/extensions/juanblanco.solidity-0.0.71
+[2020-04-01 11:11:22.842] [sharedprocess] [info] Installing extension: ms-dotnettools.csharp
+[2020-04-01 11:11:22.843] [sharedprocess] [info] Installing extension: redhat.java
+[2020-04-01 11:11:29.495] [sharedprocess] [info] Downloaded extension: ms-dotnettools.csharp /tmp/575dfab8-db6b-4c5f-945a-143d76342682
+[2020-04-01 11:11:30.497] [sharedprocess] [info] Extracted extension to /Users/danielsalgado/.vscode/extensions/.ms-dotnettools.csharp-1.21.16: ms-dotnettools.csharp
+[2020-04-01 11:11:30.498] [sharedprocess] [info] Renamed to /Users/danielsalgado/.vscode/extensions/ms-dotnettools.csharp-1.21.16
+[2020-04-01 11:11:30.509] [sharedprocess] [info] Installation completed. ms-dotnettools.csharp
+[2020-04-01 11:11:31.536] [sharedprocess] [info] Extensions installed successfully: ms-dotnettools.csharp
+[2020-04-01 11:12:04.266] [sharedprocess] [info] Downloaded extension: redhat.java /tmp/7a1e08ed-a2c4-462f-a125-99d4c35920ad
+[2020-04-01 11:12:26.381] [sharedprocess] [info] Extracted extension to /Users/danielsalgado/.vscode/extensions/.redhat.java-0.59.0: redhat.java
+[2020-04-01 11:12:26.383] [sharedprocess] [info] Renamed to /Users/danielsalgado/.vscode/extensions/redhat.java-0.59.0
+[2020-04-01 11:12:26.425] [sharedprocess] [info] Installation completed. redhat.java
+[2020-04-01 11:12:27.432] [sharedprocess] [info] Extensions installed successfully: redhat.java
+[2020-04-03 11:29:08.107] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2020-04-03 11:29:08.251] [sharedprocess] [info] Installing extension: redhat.java
+[2020-04-03 11:29:34.309] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /tmp/92874d06-a59a-4570-b520-50c78fc981a3
+[2020-04-03 11:30:08.700] [sharedprocess] [info] Extracted extension to /Users/danielsalgado/.vscode/extensions/.esbenp.prettier-vscode-4.0.0: esbenp.prettier-vscode
+[2020-04-03 11:30:08.941] [sharedprocess] [info] Renamed to /Users/danielsalgado/.vscode/extensions/esbenp.prettier-vscode-4.0.0
+[2020-04-03 11:30:09.029] [sharedprocess] [info] Installation completed. esbenp.prettier-vscode
+[2020-04-03 11:30:13.040] [sharedprocess] [info] Extensions installed successfully: esbenp.prettier-vscode
+[2020-04-03 11:30:24.277] [sharedprocess] [info] Downloaded extension: redhat.java /tmp/d1ca6507-d112-4e5d-9c41-6f9c502baa9d
+[2020-04-03 11:31:01.914] [sharedprocess] [info] Extracted extension to /Users/danielsalgado/.vscode/extensions/.redhat.java-0.59.1: redhat.java
+[2020-04-03 11:31:02.122] [sharedprocess] [info] Renamed to /Users/danielsalgado/.vscode/extensions/redhat.java-0.59.1
+[2020-04-03 11:31:02.441] [sharedprocess] [info] Installation completed. redhat.java
+[2020-04-03 11:31:04.821] [sharedprocess] [info] Extensions installed successfully: redhat.java

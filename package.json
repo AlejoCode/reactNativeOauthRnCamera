@@ -1,0 +1,40 @@
+{
+  "name": "Hunters",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@gcanvas/core": "^1.0.0",
+    "@react-native-community/google-signin": "^4.0.0",
+    "deepai": "^1.0.15",
+    "fs": "^0.0.1-security",
+    "imagediff": "^1.0.8",
+    "mz": "^2.7.0",
+    "node-gyp": "^6.1.0",
+    "react": "16.9.0",
+    "react-native": "0.61.5",
+    "react-native-camera": "^3.21.0",
+    "react-native-fbsdk": "^1.1.2",
+    "react-native-video-processing": "^1.20.0",
+    "rebuild": "^0.1.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.2",
+    "@babel/runtime": "^7.6.2",
+    "@react-native-community/eslint-config": "^0.0.5",
+    "babel-jest": "^24.9.0",
+    "eslint": "^6.5.1",
+    "jest": "^24.9.0",
+    "metro-react-native-babel-preset": "^0.56.0",
+    "react-test-renderer": "16.9.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
